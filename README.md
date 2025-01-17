@@ -13,6 +13,6 @@ Suspicious Customer Investigation
 
 Enables AML analysts to filter and investigate all transactions linked to a suspicious customer.
 Displays KYC (Know Your Customer) records for deeper analysis.
-![image](https://github.com/user-attachments/assets/fe5c9bef-baac-4dc2-a946-65b7f2000fa8)
-![image](https://github.com/user-attachments/assets/16ba1808-793d-49f7-b067-a936ac2b7abd)
+![image](https://github.com/user-attachments/assets/bd4bab12-3ada-4c83-8682-a34ffc77ba9b)
+![image](https://github.com/user-attachments/assets/62b39650-770e-4aaf-aef4-2244c64f3eb2)
 
